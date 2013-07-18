@@ -19,3 +19,5 @@ Pět IT technologií, které za poslední dobu v pozitivním slova smyslu nejví
 -   [**OS X**](http://www.apple.com/osx/) má zkrátka blíže k Linuxu než Windows, takže spousta vývojových věcí, které mají primárně běžet na Linuxu, běží na OS X lépe než na Windows a díky existujícím repozitářům typu [MacPorts](http://www.macports.org) není jejich instalace porod jako tomu bývá na Windows. Přestože jsem měl Windows daleko déle než OS X, tak OS X rozumím více a funguje mi lépe. A co si budeme povídat, terminál je terminál :-). 
 
 Disclaimer: Zdrojový Markdown tohoto článku byl napsán v Sublime textu na OS X a byl nahrán na Github. Do příště vymyslím, jak během psaní článku využiji Python. 
+
+A jaké technologii nejvíce ovlivnily vaši tvorbu?
