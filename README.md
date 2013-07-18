@@ -1,0 +1,1 @@
+Zdrojové Markdown soubory k článkům na [blogu](http://blog.havrlant.cz).
